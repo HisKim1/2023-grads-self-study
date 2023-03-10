@@ -2,7 +2,7 @@
 'set display color black'
 'c'
 
-'sdfopen http://psl.noaa.gov/thredds/dodsC/Datasets/noaa.ersst/sst.mnmean.v4.nc'
+'sdfopen sst.mean.nc'
 
 'set parea 1.0 8.0 2.0 6.0'
 'set x 1'
